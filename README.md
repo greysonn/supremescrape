@@ -7,6 +7,8 @@
 
 4. type ```pip install colorama``` ,```pip install json```, and ```pip install requests```
 
+5. Finally, run the script by locating the directory and then typing ```py index.py```
+
 
 # Requirements
 
