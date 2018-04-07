@@ -10,8 +10,8 @@
 
 # Requirements
 
-Python 3.6
-Git
-Colorama
-Json
+Python 3.6, 
+Git, 
+Colorama, 
+Json, 
 Requests
