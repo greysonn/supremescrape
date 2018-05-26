@@ -40,9 +40,9 @@ def scrape():
         pid = product['id']
         pname = product['name']
         pcategory = product['category_name']
-        f.write(str(pid) + "\n")
+        f.write(str(pid) + "\n" + str(pname) + "/n")
         print(str(pid) + " - "+ str(pname) + " - " + str(pcategory))
 
     print(Fore.GREEN + "Successfully grabbed product ID's")
     print(Fore.GREEN + "Check the directory for the .txt file ;")
-    print(Fore.CYAN + "HMU On twitter https://twitter.com/greysonhur")
+    print(Fore.CYAN + "HMU On twitter https://twitter.com/grxyl")
