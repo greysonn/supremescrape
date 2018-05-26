@@ -46,3 +46,4 @@ def scrape():
     print(Fore.GREEN + "Successfully grabbed product ID's")
     print(Fore.GREEN + "Check the directory for the .txt file ;")
     print(Fore.CYAN + "HMU On twitter https://twitter.com/grxyl")
+scrape()
